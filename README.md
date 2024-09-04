@@ -1,0 +1,1 @@
+Calculadora web sencilla creada con HTML, CSS y JavaScript. Esta calculadora permite realizar operaciones matemáticas básicas (suma, resta, multiplicación, división) y funciones avanzadas (raíz cuadrada, potencia, valor absoluto, número aleatorio, redondeo). El proyecto incluye validación de entradas y manejo de errores para mejorar la experiencia del usuario.
